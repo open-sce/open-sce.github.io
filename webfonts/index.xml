@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Open SCE</title>
+    <link>https://open-sce.org/</link>
+    <description>Recent content in Home on Open SCE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Domino Data Lab. All rights reserved</copyright><atom:link href="https://open-sce.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charter</title>
+      <link>https://open-sce.org/charter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-sce.org/charter/</guid>
+      <description>Purpose The purpose of this charter is to establish guidelines and principles for the OpenSCE open-source community. This community aims to foster collaboration, innovation, and the development of high-quality open-source projects to deliver a collection of tools and applications which enable more efficient workflows for statistical programming organizations to deliver quality statistical analyses for regulatory submissions, interfacing with the Domino Data Lab platform and other technologies. By promoting transparency, inclusivity, and shared ownership, we strive to create a vibrant and welcoming environment for individuals passionate about open-source software and driving positive change through data science and statistical programming in pharmaceutical research and development.</description>
+    </item>
+    
+    <item>
+      <title>Contribute</title>
+      <link>https://open-sce.org/contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-sce.org/contribute/</guid>
+      <description>The Open SCE project is constantly looking for people interested in contributing solutions. If you have passion for life since and skills and ideas on expanding or introducing new components to the project, please get in touch with us.</description>
+    </item>
+    
+    <item>
+      <title>Study Migration Tool</title>
+      <link>https://open-sce.org/posts/study_migration_released/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://open-sce.org/posts/study_migration_released/</guid>
+      <description>Study Migration Tool has been added to Open SCE.
+Study Migration Tool is a Plotly-Dash Python application developed by Achieve Intelligence that generates visualisations of study milestone activity for analysis and migration scheduling.
+The full code of this package is available in Open SCE (GitHub)</description>
+    </item>
+    
+  </channel>
+</rss>
