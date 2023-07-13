@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Open SCE</title>
-    <link>https://open-sce.org/posts/</link>
+    <link>http://open-sce.github.io/posts/</link>
     <description>Recent content in News on Open SCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Domino Data Lab. All rights reserved</copyright><atom:link href="https://open-sce.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Domino Data Lab. All rights reserved</copyright><atom:link href="http://open-sce.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Study Migration Tool</title>
-      <link>https://open-sce.org/posts/study_migration_released/</link>
+      <link>http://open-sce.github.io/posts/study_migration_released/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://open-sce.org/posts/study_migration_released/</guid>
+      <guid>http://open-sce.github.io/posts/study_migration_released/</guid>
       <description>Study Migration Tool has been added to Open SCE.
 Study Migration Tool is a Plotly-Dash Python application developed by Achieve Intelligence that generates visualisations of study milestone activity for analysis and migration scheduling.
 The full code of this package is available in Open SCE (GitHub)</description>

@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://open-sce.org/</loc>
+    <loc>http://open-sce.github.io/</loc>
   </url><url>
-    <loc>https://open-sce.org/charter/</loc>
+    <loc>http://open-sce.github.io/charter/</loc>
   </url><url>
-    <loc>https://open-sce.org/contribute/</loc>
+    <loc>http://open-sce.github.io/contribute/</loc>
   </url><url>
-    <loc>https://open-sce.org/posts/</loc>
+    <loc>http://open-sce.github.io/posts/</loc>
   </url><url>
-    <loc>https://open-sce.org/posts/study_migration_released/</loc>
+    <loc>http://open-sce.github.io/posts/study_migration_released/</loc>
   </url><url>
-    <loc>https://open-sce.org/tags/</loc>
+    <loc>http://open-sce.github.io/tags/</loc>
   </url>
 </urlset>
