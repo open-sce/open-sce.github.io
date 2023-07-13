@@ -1,1 +1,0 @@
-# open-sce.github.io
