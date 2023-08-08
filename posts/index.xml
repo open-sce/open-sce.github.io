@@ -6,7 +6,19 @@
     <description>Recent content in News on Open SCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Domino Data Lab. All rights reserved</copyright><atom:link href="http://open-sce.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Domino Data Lab. All rights reserved</copyright>
+    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://open-sce.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Translation Toolset</title>
+      <link>http://open-sce.github.io/posts/code_translation/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://open-sce.github.io/posts/code_translation/</guid>
+      <description>A number of assets for automatic language translation using generative AI has been added to Open SCE.
+Domino Data Labs released a code translation toolset, which currently includes:
+CodeConversion.ipynb &amp;mdash; Uses the OpenAI API to translate source code from/to a number of different programming languages (e.g. R, Python, SAS) CodeConversionMagic.ipynb &amp;mdash; Creates a sasconvert Jupyter magic command for translating SAS code into Python code The full code of this package is available in Open SCE (GitHub)</description>
+    </item>
+    
     <item>
       <title>Study Migration Tool</title>
       <link>http://open-sce.github.io/posts/study_migration_released/</link>
