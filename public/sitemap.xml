@@ -3,12 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://open-sce.github.io/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://open-sce.github.io/posts/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://open-sce.github.io/charter/</loc>
   </url><url>
     <loc>http://open-sce.github.io/contribute/</loc>
   </url><url>
-    <loc>http://open-sce.github.io/posts/</loc>
+    <loc>http://open-sce.github.io/posts/domaudit/</loc>
+    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://open-sce.github.io/posts/code_translation/</loc>
+    <lastmod>2023-08-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://open-sce.github.io/posts/study_migration_released/</loc>
   </url><url>
