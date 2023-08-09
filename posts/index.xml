@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Domino Data Lab. All rights reserved</copyright>
-    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://open-sce.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://open-sce.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domino Audit Solution</title>
+      <link>http://open-sce.github.io/posts/domaudit/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://open-sce.github.io/posts/domaudit/</guid>
+      <description>Domino Data Lab added Domino Audit to Open SCE.
+This is a webservice which provides enriched auditing using metadata collected by Domino
+This includes 3 endpoints:
+Project Audit: And audit of all jobs run in the project, with all metadata associated with that job.
+Project Activity: An output of the &amp;lsquo;Activity&amp;rsquo; section in the project overview page, with options for filtering
+User Login Audit: An audit log of all user login activities.</description>
+    </item>
+    
     <item>
       <title>Code Translation Toolset</title>
       <link>http://open-sce.github.io/posts/code_translation/</link>
@@ -15,7 +29,7 @@
       
       <guid>http://open-sce.github.io/posts/code_translation/</guid>
       <description>A number of assets for automatic language translation using generative AI has been added to Open SCE.
-Domino Data Labs released a code translation toolset, which currently includes:
+Domino Data Lab released a code translation toolset, which currently includes:
 CodeConversion.ipynb &amp;mdash; Uses the OpenAI API to translate source code from/to a number of different programming languages (e.g. R, Python, SAS) CodeConversionMagic.ipynb &amp;mdash; Creates a sasconvert Jupyter magic command for translating SAS code into Python code The full code of this package is available in Open SCE (GitHub)</description>
     </item>
     
