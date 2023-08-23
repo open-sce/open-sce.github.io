@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Domino Data Lab. All rights reserved</copyright>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://open-sce.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://open-sce.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charter</title>
       <link>http://open-sce.github.io/charter/</link>
@@ -18,12 +18,35 @@
     </item>
     
     <item>
+      <title>Components</title>
+      <link>http://open-sce.github.io/components/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://open-sce.github.io/components/</guid>
+      <description>The Open SCE project is constantly looking for people interested in contributing solutions. If you have passion for life since and skills and ideas on expanding or introducing new components to the project, please get in touch with us.
+Domino Audit Solution A webservice and an UI, which provide enriched auditing using metadata collected by the Domino Enterprise MLOps platform.
+Announcement and GitHub link
+Study Migration Tool Study Migration Tool is a Plotly-Dash Python application developed by Achieve Intelligence that generates visualisations of study milestone activity for analysis and migration scheduling.</description>
+    </item>
+    
+    <item>
       <title>Contribute</title>
       <link>http://open-sce.github.io/contribute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://open-sce.github.io/contribute/</guid>
       <description>The Open SCE project is constantly looking for people interested in contributing solutions. If you have passion for life since and skills and ideas on expanding or introducing new components to the project, please get in touch with us.</description>
+    </item>
+    
+    <item>
+      <title>Fluent CLI released</title>
+      <link>http://open-sce.github.io/posts/fluent_cli_released/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://open-sce.github.io/posts/fluent_cli_released/</guid>
+      <description>KSM Technology Partners released Domino Data Lab Fluent CLI (Command Line Interface) &amp;mdash; an enhanced CLI for interacting with the Domino Enterprise MLOps Platform.
+Fluent CLI provides the following features:
+Ability to output results as plain text, JSON, or XML Zero dependency native executable Detailed context sensitive help for each command Easily script and chain commands together in your favorite shell (Bash, PowerShell, etc) </description>
     </item>
     
     <item>
